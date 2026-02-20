@@ -1,74 +1,118 @@
-## Hi, I'm Jocelyn 👋
+## Hi, I'm Jocelyn 👋  
 
-I’m a full-stack developer interested in getting my hands on the newest technologies.  
-I always say I try an unfamiliar program with every project.
+Full-stack developer building systems that balance usability and technical depth.  
+I try to learn at least one unfamiliar technology with every project.
 
+---
 
-### About Me
+## About Me  
 
 🙂 Pronouns: she/her  
-💻 I pivoted from UX design to full-stack  
-🎓 Undergraduate Junior @ University of Washington  
-☕ I learned coding in college, I’m best at OOP Java!  
-✉️ Contact me: velazquez.jocelyn00@gmail.com  
-👤 Resume: https://www.linkedin.com/in/velazjoc  
+🎓 Double Degree in Computer Science & Informatics — University of Washington  
+💻 Pivoted from UX design into full-stack systems  
+☕ Best in OOP (Java), now expanding into systems + backend architecture  
+✉️ velazquez.jocelyn00@gmail.com  
+👤 [LinkedIn](https://www.linkedin.com/in/velazjoc)
 
+🐕 Dream dog: Scottish Terrier  
+![scottish terrier](/200_d.gif)
 
-### Education
+---
 
-University of Washington — Seattle  
-Double Degree in Computer Science & Informatics  
-Grad Date: March 2027  
+## Technical Skills
 
+**Languages**  
+Java • Python • C++ • C • JavaScript/TypeScript • SQL • R • HTML/CSS  
 
-### What I’m currently working on
+**Frameworks & Tools**  
+React • Node.js • Express • MongoDB • Firebase • PostgreSQL • Git • Docker • Azure  
 
-**Client Side Development Teaching Assistant — UW Information School**
-- Leading weekly lab sections and office hours
-- Helping students debug HTML/CSS, JavaScript, React, and Firebase
-- Supporting student teams with code reviews + implementing features like React components, client-side routing, and Firebase integration
+**Core Concepts**  
+Object-Oriented Programming • REST APIs • Authentication • Concurrency • Data Structures • Systems Programming  
 
-**Capstone — Tether Health**  
-Working on an iSchool capstone building a full-stack application with researchers, designers, and PMs to create an AI chatbot that helps users navigate a fragmented healthcare system.
+---
 
+## What I’m Currently Working On
 
-### What I’ve worked on
+### Client Side Development Teaching Assistant — UW Information School  
+- Lead weekly lab sections + office hours  
+- Debug React state issues, Firebase auth flows, and routing logic  
+- Review architecture decisions in student team projects  
+- Help students transition from static pages to component-based systems  
 
-**Tech Team Software Engineer — DubHacks (Jan 2025 – Aug 2025)**  
-- Implemented the main React site for 1,000+ hackers and sponsors with responsive layouts + custom animations
-- Built a full-stack hacker profile platform (Node.js, Express, MongoDB) with secure auth, QR check-ins, prize redemption, and personalized dashboards
-- Developed a quiz subsystem enabling one-time submissions, server-side scoring, and dynamic result reveal logic
+### Capstone — Tether Health  
+Full-stack AI-powered health navigation tool  
+- Building chatbot integration + backend data logic  
+- Working cross-functionally with researchers + designers  
+- Designing structured data models for healthcare resource aggregation  
 
-**Engage Scholar — Pinterest Engage**  
-- Selected as one of 35 students nationwide
-- Monthly workshops on data structures, algorithms, and interview prep
-- Mentorship from Pinterest engineers
+---
 
-**New Technologist Intern (SWE & PM) — Microsoft (Jun 2024 – Aug 2024)**  
-- Developed a React web app in 7 weeks enabling travelers to rent luggage space from others (reduced overweight fees by 50%+)
-- Engineered responsive front-end and integrated Google Maps API + Azure AI Vision for flight-based matching + automated TSA compliance
-- Helped address security and operational challenges through user research, product planning, and technical documentation
+## Professional Experience
 
+### Tech Team Software Engineer — DubHacks (2025)  
+- Built main React site for 1,000+ hackers + sponsors  
+- Engineered full-stack hacker dashboard (Node.js, Express, MongoDB)  
+- Designed secure authentication + QR-based check-in + prize redemption  
+- Implemented server-side quiz scoring with controlled submissions  
 
-### Projects
+**Impact**  
+Designed scalable backend routes and role-based auth logic used during live event operations.
 
-**TCP Chat Server (CSE 333)**  
-C, systems programming  
-- Implemented a multi-client TCP chat server using BSD sockets, supporting concurrent connections via threads
-- Designed thread-safe shared data structures using mutexes for client management + message broadcasting
+---
 
-**Crossly — Full-Stack Crossword Generator**  
-React, Node.js, Express, MongoDB, Azure Auth, REST APIs  
-- Built a crossword generator supporting creating, editing, saving, and searching puzzles
-- Integrated external crossword APIs + Azure authentication
+### New Technologist Intern (SWE + PM) — Microsoft (2024)  
+- Developed full-stack luggage-sharing platform in 7 weeks  
+- Integrated Google Maps API + Azure AI Vision  
+- Reduced overweight baggage fees by 50%+ in prototype testing  
+- Addressed security + operational risks through technical documentation  
 
-**Stickerest — Sticker Collection Platform**  
-React, JavaScript, Firebase, HTML/CSS  
-- Built a platform to discover, upload, and organize sticker collections
-- Implemented real-time chat + drag-and-drop interactions using Firebase
+**Learning Highlight**  
+Debugged async state + memory issues under time pressure while coordinating across SWE and PM tracks.
 
+---
 
-### Skills
+### Engage Scholar — Pinterest  
+- Selected 1 of 35 students nationwide  
+- Advanced DSA training + engineer mentorship  
 
-Languages: Java, Python, C++, JavaScript/TypeScript, SQL, R, HTML/CSS  
-Frameworks/Tools: React, Node.js, Express, MongoDB, Firebase, PostgreSQL, Git, Docker, Azure  
+---
+
+## Featured Projects
+
+### [TCP Chat Server (CSE 333)](repo-link)  
+C • BSD Sockets • Threads  
+- Built multi-client TCP server from scratch  
+- Implemented thread-safe shared data structures using mutexes  
+- Managed concurrent client connections + broadcast logic  
+
+**Technical Focus:** Concurrency + memory management  
+
+---
+
+### [Crossly — Full-Stack Crossword Generator](repo-link)  
+React • Node.js • Express • MongoDB • Azure Auth  
+- Built puzzle creation, editing, and search functionality  
+- Integrated third-party crossword APIs  
+- Designed RESTful endpoints + JWT-based authentication  
+
+**Architecture Highlight:** Separated frontend rendering logic from backend puzzle generation services.
+
+---
+
+### [Stickerest — Sticker Collection Platform](repo-link)  
+React • Firebase  
+- Built sticker discovery and upload platform  
+- Implemented real-time chat + drag-and-drop interface  
+- Designed live data syncing using Firebase listeners  
+
+---
+
+## Portfolio Guide
+
+If you're browsing:
+
+- Systems Programming → TCP Chat Server  
+- Full-Stack Architecture → Crossly  
+- Real-Time + Firebase → Stickerest  
+- Production Event Platform → DubHacks  
