@@ -42,9 +42,8 @@ Object-Oriented Programming • REST APIs • Authentication • Concurrency •
 
 ### Capstone — Tether Health  
 Full-stack AI-powered health navigation tool  
-- Building chatbot integration + backend data logic  
-- Working cross-functionally with researchers + designers  
-- Designing structured data models for healthcare resource aggregation  
+- Building a Full-Stack Application with React Native & Supabase  
+- Designing structured data models for healthcare resource aggregation through AI models
 
 ---
 
