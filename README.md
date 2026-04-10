@@ -42,8 +42,10 @@ Object-Oriented Programming • REST APIs • Authentication • Concurrency •
 
 ### Capstone — Tether Health  
 Full-stack AI-powered health navigation tool  
-- Building a Full-Stack Application with React Native & Supabase  
-- Designing structured data models for healthcare resource aggregation through AI models
+- Goals: Help users understand their health data in plain language. Utilize AI to surface meaningful patterns, explain what they mean, and generate questions users can bring to their doctor and feel supported in their health journey.
+- Process: Winter Quarter - Figma User Interface Prototype built out and tested; Spring Quarter - Build out features in full-stack development
+- Takeaways: It's extremely important that users feel their health data is private and protected. All members' involvement in the spring quarter research phase was required to fully understand how to build an application that prevents harm.
+- Next Steps: Move into feature development week by week until spring quarter end.
 
 ---
 
